@@ -1,35 +1,35 @@
 ## GitHub Campus Expert
 Esta es una práctica introductoria donde se han realizado las siguientes tareas
 
-### Aceptar la asignación de la práctica
-[img]
+### 1. Aceptar la asignación de la práctica
+![img1]
 Se acepta la asignación de la práctica
 
-### Creación del project board automated kanban
+### 2. Creación del project board automated kanban
 Una vez se crea el repositorio automáticamente
-[img2]
+![img2]
 
 Se crea un project board con la configuración indicada
-[img3]
-[img5]
+![img3]
+![img5]
 
 Y se puede trabajar con el mismo añadiendo los requisitos de la práctica
-[img6]
+![img6]
 
-### Solicitar el Student developer pack
+### 3. Solicitar el Student developer pack
 Se solicita el Student developer pack tal y como se ve en la imagen.
-[img7]
+![img7]
 
 En este caso, este paso ya se había realizado antes de cursar esta asignatura, por lo que no se dispone de más imágenes del proceso.
 
 Una vez se tramita la solicitud, ya tendríamos acceso a los planes ofrecidos
-[img8]
+![img8]
 
-### Solicitar una GitHub Intership
+### 4. Solicitar una GitHub Intership
 En este caso, si acudimos a solicitarla, no hay niguna convocatoria abierta en estos momentos.
 
-[img9]
-[img10]
+![img9]
+![img10]
 
 ### Finalización de la práctica
 Una vez finalizada la práctica, se actualiza el README.md en el repositorio correspondiente y se suben el link y los archivos indicados a la tarea del campus virtual de la asignatura.
